@@ -1,6 +1,4 @@
-git status
-git status
-A:
+DESCRIÇÃO DO PROBLEMA:
 
 Em uma clínica trabalham médicos e existem pacientes internados. 
 
